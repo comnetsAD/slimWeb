@@ -1,0 +1,504 @@
+Manifest-Version: 1.0
+
+Name: start.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+SHA256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: README.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ualIVXSs8gCmjWVrziFPbfgYXlc=
+SHA256-Digest: rV7q4GY34eFPPuNBW206l9qXlYqrUc3CGL5O+lb3wqI=
+
+Name: JSCleaner.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: eTisW5ApAqXbrJpBLWvtgmYzB5Y=
+SHA256-Digest: XZ7s0GGtnol6+5zT+1XS0QjaXSKzohEjL8XcOSVr6u4=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2A08IIjFMus9Ci2dGWNdfA3U5DI=
+SHA256-Digest: /r8XZvjLMN3URWg3gvB3U90V+YLOzo56ovsGCtwbWLI=
+
+Name: requirements.tx
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: kbYeUh/7MaITXc437wznhH+4itc=
+SHA256-Digest: 8pfxzkDMryg2xgY18NwS8JXLFYOlzL2F4tkbKA6KCOo=
+
+Name: todolist.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +mCQ9EereeP2ZlP3pYiN0DIYIy8=
+SHA256-Digest: /ZDrN+lUMKmXJ20T0/zJrfSOehxcbRxc0UhYI6caPTQ=
+
+Name: __MACOSX/._start.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/._README.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/._JSCleaner.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/._manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: RYcB33eWwKZqZIyiSQLQOeMGbFU=
+SHA256-Digest: JGtqL3Wz9tpXlIAOr3gOhCgk2KKXJQkftkFsZM6ARAM=
+
+Name: __MACOSX/._requirements.tx
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/._todolist.md
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/._assets
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/._.DS_Store
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/._css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/._js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/._html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/._lib
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/css/._main.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/css/._popup.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/js/._Database.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/js/._popup.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/js/._background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/js/._scripts.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/js/._settings.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/js/._contentscript.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/html/._popup.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/html/._scripts.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/html/._background.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/html/._settings.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/._JQuery-3.2.1
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/._bootstrap-4.3.1
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/JQuery-3.2.1/._jquery-3.2.1.slim.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/._css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/._js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap-reboot.min.cs
+ s.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap-grid.css.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap-grid.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap.css.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap-toggle.min.cs
+ s
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap.min.css.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap-reboot.min.cs
+ s
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap-reboot.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap-grid.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap-grid.min.css.
+ map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/css/._bootstrap-reboot.css.ma
+ p
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap-toggle.min.js.
+ map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap.bundle.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap-toggle.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap.bundle.min.js.
+ map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap.bundle.js.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap.bundle.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap-toggle.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap.js.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: __MACOSX/assets/lib/bootstrap-4.3.1/js/._bootstrap.min.js.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: VcdQXTYIkjDkuPl0olUKHi6vteY=
+SHA256-Digest: DkJq++PmBomJU81zXort8WSxYyCadXwni4Tel5UpFzk=
+
+Name: assets/.DS_Store
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: s0w2KtIhqKDgx5ALK2y4GYYDioM=
+SHA256-Digest: pVYbpT3Lj4YZ4vEL4OIaEgFSdMvqJ05xgMTO5X0xBEs=
+
+Name: assets/css/main.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+SHA256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: assets/css/popup.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: SnPerKueQDBaxxqrms1n6N9dRN8=
+SHA256-Digest: IEiUFJbK4TVaPCJ+7r3IRmvsNljp5kZmk7N9D/dYfX8=
+
+Name: assets/js/Database.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: uPPITX8VpTcRb84bnU7g4pA8AJU=
+SHA256-Digest: CePYpIS8vit2wrv6RxHQPTTt925cQry4MfHkZI+gaV8=
+
+Name: assets/js/popup.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Ty1fhtyCTsz48uRu5bESLE6aeFw=
+SHA256-Digest: kVF1xhuhquMPCIZzJTrCRBXBwOFqa/WjZEGElBy84mE=
+
+Name: assets/js/background.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 97utvT2/jGq6B+Q5q0ePXY/4YFg=
+SHA256-Digest: OjO8DnR+IkJElyTUOt+TxbZdSehJQqGW4iBVhVasG1Q=
+
+Name: assets/js/scripts.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6w8nXAEiWWjGZhJWbx2v3h7xaT8=
+SHA256-Digest: 8Bvk7jzD1A0Fevr9VVqSrQgi/DZueWbwp1nItqeTl+g=
+
+Name: assets/js/settings.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: x+USF6fBrHttnyH7/h7a+Px5Doc=
+SHA256-Digest: rEhUgVQjHllKo/VnKMhxHMGF9kyG5sCNIAavdmmI5wU=
+
+Name: assets/js/contentscript.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: ZU1FTbgTKpxCS3GzME4ecukoZvg=
+SHA256-Digest: PY8ebPAfymN3jU9I3d+mGj3SUSTzqjzQnr2EBC/GH7Q=
+
+Name: assets/html/popup.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: a1o6W4BiMuKio3mi0AVBh3BbLOw=
+SHA256-Digest: tg8Ki8MOnqNEG55oZh8+NJBd4SAB0v8zNhTqyvZ+dzw=
+
+Name: assets/html/scripts.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: KQxngBktPcErsnr3UY1W6OOutk4=
+SHA256-Digest: xUBDCeiKcatIVmpzU1fpk47k9I/9KspczbyQ1apjQik=
+
+Name: assets/html/background.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: x39vVvilry50uec8D5hbq6tgx6A=
+SHA256-Digest: NMU4OabU2d7YdlbirzsoIginTT5IpRLKpoD9q44MSx0=
+
+Name: assets/html/settings.html
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 4wUkrWwBFjL5u6/SYWONWH01B/w=
+SHA256-Digest: bgWEF2k3NL0Ke79od4e6mpE3xJTCmEJcMHEo3RymOFg=
+
+Name: assets/lib/JQuery-3.2.1/jquery-3.2.1.slim.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: iFZ1S9+bEC0Eaxb5H+sgPGBrMr0=
+SHA256-Digest: kaBKXf5QHVSvilm5Qklb16smu4Eas09GARX8Amf4JfE=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: bhA1SChFSJj9qA9V897LNH/Z7SE=
+SHA256-Digest: YLGeXaapI0/5IgZopewRJcFXomhRMlYYjugPLSyNjTY=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap-reboot.min.css.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: umCAEyOkx7xuA6jNrvHwYW7+pKU=
+SHA256-Digest: dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: lNZFByDdjetBN2DMkYQgS0aALpw=
+SHA256-Digest: Nfu23DiRqsrx/6B6vsI0T9vEVKq1M6KgO8+TV363g3s=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap-grid.css.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: owFM/KrUylG9PhLE7iTL2kivfc4=
+SHA256-Digest: 2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap-grid.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Tt0BJbDh3H8bwq7NOKvizQeeMy8=
+SHA256-Digest: D9AvR0EzkNZoWZVSvI3ch+uf/Z5izrIpcbsykVphwPU=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap.css.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: TzgxfnwCxU9KZy0RdnBtYl76i9U=
+SHA256-Digest: CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap-toggle.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mAp7fFMvpY6IODF2Me9ypWwpbDY=
+SHA256-Digest: rDWX6XrmRttWyVBePhmrpHnnZ1EPmM6WQRQl6h0h7J8=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap.min.css.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: E446/Etps83ahw5ijVao3IxvTTY=
+SHA256-Digest: xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap-reboot.min.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: mQ9AgXXK72s5fCR/OqYUaSIRxbQ=
+SHA256-Digest: dARYuC3pd0wa/7R4Hkt/sR2zfLHCgbnVAQ2sPwhNe0A=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap-reboot.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: IzCkJeiwEHC/qulCjEKfs/nr7Cs=
+SHA256-Digest: Za8TaoAYg1BzmU9Re7Fiy6Hh3ac4jswPE1MKeTs95bw=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap-grid.css
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 3wfgoTZv6mtazRSCfDhdMhSzIrM=
+SHA256-Digest: cCazLItaM+Zz5UEzu9HNzlgWhXlvknCzjdE45LBeTns=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap-grid.min.css.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Xaif2vA4xqXoEQeufwxZsCNq4SM=
+SHA256-Digest: kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I=
+
+Name: assets/lib/bootstrap-4.3.1/css/bootstrap-reboot.css.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: +SMdL/mF58HLTUEGG8OpUQlmKVs=
+SHA256-Digest: 3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap-toggle.min.js.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: M7C2ktnms/eRTm2Ex6vfgtfWGRo=
+SHA256-Digest: +sUE5DvIGvRpCb1xVIQGr4qP7ghqo+bQ74b+k8r7xlA=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap.bundle.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: cDg0PegGyHHpPRaBq0hjO3qjT1g=
+SHA256-Digest: pVreZ67fRaATygHF6T+gQtF1NI700W9kzeAivu6au9U=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap-toggle.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: HGPHyV/vW1hrusrzBG05/DXPL9s=
+SHA256-Digest: eZNgBgutLI47rKzpfUji/dD9t6LRs2gI3YqXKdoDOmo=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap.bundle.min.js.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JllCMrRd7ecAWUkY4f0N+odohKY=
+SHA256-Digest: 8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap.bundle.js.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: lh9mfzvaQ7AAg5E6wyAqnMviFYc=
+SHA256-Digest: 3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: qUZbu1oK7yT5slGE49o2N2NGNfE=
+SHA256-Digest: pl1bSrtlqtN/MCyW8XUTYuJCKohp9/iJESVW1344SBM=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap.bundle.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: JlpzPLf7xIH9JRCmWaha1VyTyJU=
+SHA256-Digest: fzFFyH01cBVPYzl16KT40wqjhgPtq6FFUB6ckN2+GGw=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap.min.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Z3j+088JWjGBQaMfRVyPRmOIW94=
+SHA256-Digest: CjSoeELFOcH0/uxWu6mC/Vlrc1AARqbm/jiiImDGV3s=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap-toggle.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: UGVpKfns1LaDxmrFSZYpaxJkays=
+SHA256-Digest: 9JG+RYJiiiZ0LxdIYNjjYkSTLti4FlQ9Vvst1cIVVVo=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap.js.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 0EzZWO7YW3BHmjcCBvicCDt/pwI=
+SHA256-Digest: R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c=
+
+Name: assets/lib/bootstrap-4.3.1/js/bootstrap.min.js.map
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 1koon2mORGsMx46D3QFhu44vIHU=
+SHA256-Digest: vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: hW6ef5iVEiAteG6CdJIpB0iEPKc=
+SHA256-Digest: GA9CnK0gHq1BYk0ke7G+xu+wVIduJRBr59To2m3qIY4=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: Cgs2UokjkJ5QgT0artrNKXMtodU=
+SHA256-Digest: ryXpcH/1Xie0/fWvi++GnNgjVUEFqbAqeEsORfk/yfQ=
+
